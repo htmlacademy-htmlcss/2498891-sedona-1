@@ -1,12 +1,13 @@
 # Личный проект «Седона»
 
 * Студент: [Михаил Лазарев](https://up.htmlacademy.ru/htmlcss-individual/1/user/2498891).
-* Наставник: `Неизвестно`.
+* Наставник: ` Антон Варнавский`.
 
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
+
 
 ---
 
